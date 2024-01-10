@@ -21,4 +21,3 @@ foreach (Products pro in products)
     Console.Write(pro.Exdate.ToLongDateString());
     Console.Write("\n");
 }
-Console.ReadKey();
